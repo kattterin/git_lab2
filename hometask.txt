@@ -1,1 +1,11 @@
 ветки demo и master не различаются
+
+8 коммитов:
+Create hometask.txt
+Merge remote-tracking branch 'origin/hat'
+dots
+boots
+fix readme
+README added
+heat added
+init
